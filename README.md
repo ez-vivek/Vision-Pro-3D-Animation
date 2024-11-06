@@ -24,7 +24,7 @@ Welcome to the **Apple Vision Pro web design project!** 🎉 This stunning web e
 To view the project locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ez-vivek/Vision Pro 3D Animation.git
+   git clone https://github.com/ez-vivek/Vision-Pro-3D-Animation.git
    ```
 2. Navigate to the project directory:
    ```bash
