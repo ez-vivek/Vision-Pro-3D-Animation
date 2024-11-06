@@ -1,4 +1,4 @@
-# 🌟 Apple Vision Pro Web Design 🌟
+# 🌟 Apple Vision Pro 3D Animation Web Design 🌟
 
 ## Overview
 Welcome to the **Apple Vision Pro web design project!** 🎉 This stunning web experience showcases the groundbreaking features of the Apple Vision Pro, blending cutting-edge technology with an elegant user interface. Dive into a world where innovation meets design! 🌈
