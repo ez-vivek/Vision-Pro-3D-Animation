@@ -28,7 +28,7 @@ To view the project locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd apple-vision-pro-web-design
+   cd Vision-Pro-3D-Animation
    ```
 3. Open `index.html` in your web browser. 🌐
 
