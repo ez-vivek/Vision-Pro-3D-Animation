@@ -1,0 +1,253 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS';
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.loader {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    background-color: #F5F5F7;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    animation: fadeOut 1s forwards; /* Changed duration to 1s for faster fade out */
+    animation-delay: 1s; /* Adjusted delay to ensure text animation ends first */
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+b {
+    font-size: 50px;
+}
+
+.loader>h2 {
+    margin: 0;
+    animation: textFadeOut 4s forwards; /* Changed duration to 2s for slower text fade out */
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1; /* Changed from 3 to 1 for proper fade out */
+    }
+
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+@keyframes textFadeOut {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+#main {
+    position: relative;
+    overflow: hidden;
+}
+
+#page6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    height: 75vh;
+    width: 100vw;
+    background-color: #f5f5f7;
+}
+
+#page6>h2 {
+    margin-bottom: 1vw;
+    font-size: 2vw;
+}
+
+#page6>h1 {
+    margin-bottom: 3vw;
+    font-size: 5vw;
+    font-weight: bolder;
+}
+
+#page6>p {
+    font-size: 1.5vw;
+    text-align: center;
+    width: 60%;
+    font-weight: 700;
+    color: #545454c9;
+}
+
+#page7 {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #f5f5f7;
+}
+
+#page7>canvas {
+    position: relative;
+    max-width: 100vw;
+    max-height: 100vh;
+    z-index: 99;
+}
+
+#page8 {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #f5f5f7;
+
+}
+
+#page8>h1 {
+    width: 20%;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 5%;
+    font-size: 1.3vw;
+    font-weight: 700;
+    color: #545454c9;
+    z-index: 99;
+    position: absolute;
+}
+
+#page8>h1>span {
+    color: #000;
+}
+
+#page9 {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #f5f5f7;
+}
+
+#page9>h1 {
+    width: 20%;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 5%;
+    font-size: 1.3vw;
+    font-weight: 700;
+    color: #545454c9;
+    z-index: 99;
+    position: absolute;
+}
+
+#page9>h1>span {
+    color: #000;
+}
+
+#page10 {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #f5f5f7;
+
+}
+
+#page10>h1 {
+    width: 20%;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 5%;
+    font-size: 1.3vw;
+    font-weight: 700;
+    color: #545454c9;
+    z-index: 99;
+    position: absolute;
+}
+
+#page10>h1>span {
+    color: #000;
+}
+
+#page11 {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #f5f5f7;
+}
+
+#page11>h1 {
+    width: 20%;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 5%;
+    font-size: 1.3vw;
+    font-weight: 700;
+    color: #545454c9;
+    z-index: 99;
+    position: absolute;
+}
+
+#page11>h1>span {
+    color: #000;
+}
+
+#page12 {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #f5f5f7;
+
+}
+
+#page12>h1 {
+    width: 20%;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 5%;
+    font-size: 1.3vw;
+    font-weight: 700;
+    color: #545454c9;
+    z-index: 99;
+    position: absolute;
+}
+
+#page12>h1>span {
+    color: #000;
+}
+
+#page13 {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #f5f5f7;
+}
+
+#page13>h1 {
+    width: 20%;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 5%;
+    font-size: 1.3vw;
+    font-weight: 700;
+    color: #545454c9;
+    z-index: 99;
+    position: absolute;
+}
+
+#page13>h1>span {
+    color: #000;
+}
+
+.text-loader {
+    text-align: center;
+    font-size: 20px;
+}
