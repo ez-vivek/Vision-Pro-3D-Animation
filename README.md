@@ -1,6 +1,5 @@
-# 🌟 Apple Vision Pro 3D Animation Web Design 🌟
+# 🌟 Apple Vision Pro 3D Animation 🌟
 
-## Overview
 
 <img src="Image/Readme Img 1.png">
 <img src="Image/Readme Img 2.png">
