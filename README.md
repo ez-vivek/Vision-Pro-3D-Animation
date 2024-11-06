@@ -2,9 +2,9 @@
 
 ## Overview
 
-<img src="Image/Readme Img 1.png">
-<img src="Image/Readme Img 2.png">
-<img src="Image/Readme Img 3.png">
+<img src="Image/Readme Img 1.png" height="300">
+<img src="Image/Readme Img 2.png" height="300">
+<img src="Image/Readme Img 3.png" height="300">
 
 ---
 
