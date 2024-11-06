@@ -2,7 +2,7 @@
 
 ## Overview
 
-<video src="Apple Vision Pro.mp4"></video>
+<a href="Apple Vision Pro.mp4"></a>
 
 Welcome to the **Apple Vision Pro web design project!** 🎉 This stunning web experience showcases the groundbreaking features of the Apple Vision Pro, blending cutting-edge technology with an elegant user interface. Dive into a world where innovation meets design! 🌈
 
